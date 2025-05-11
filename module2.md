@@ -24,5 +24,21 @@ learned from testing
 List some things we might want to k now that we can't answer with the current
 structure but that would likely be easy to fix with simple tweaks.
 
+G:ap identification
+
+Ask the AI to idenfity questions your current schema cannot answer efficiently
+
+A:nalyis of limitations
+
+Have the AI explain why each limitation exists in technical terms
+
+P:roposed solutions
+
+Get specific recommendations for schema modifications to adress each gap.
+
+S:olution implementation & simulation
+
+Implement the changes and simulate queries to verify the gaprs are resolved.
+
 
 
