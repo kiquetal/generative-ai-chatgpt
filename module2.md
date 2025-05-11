@@ -19,5 +19,10 @@ R-efinement
 Return to th einterview stage with more targeted questions based on what you
 learned from testing
 
+### Gap Analysis
+
+List some things we might want to k now that we can't answer with the current
+structure but that would likely be easy to fix with simple tweaks.
+
 
 
